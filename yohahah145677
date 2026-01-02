@@ -3,7 +3,8 @@
 local headshots = {
 
     TargetAim = {
-        Enabled = false,
+        Enabled = true,
+ Keybind = E,
         Target = "None",
         AutoFire = false,
         Strafe = false,
@@ -14,7 +15,7 @@ local headshots = {
         Highlight = false,
         HighlightFillColor = Color3.new(155, 125, 175),
         HighlightOutlineColor = Color3.new(129, 105, 145),
-        Tracer = false,
+        Tracer = true,
         TracerPosition = "Mouse",
         TracerFillColor = Color3.new(155, 125, 175),
         TracerOutlineColor = Color3.new(0, 0, 0),
