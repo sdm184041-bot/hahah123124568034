@@ -4,7 +4,7 @@ local headshots = {
 
     TargetAim = {
         Enabled = true,
- Keybind = E,
+        Keybind = E,
         Target = "None",
         AutoFire = false,
         Strafe = false,
